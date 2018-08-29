@@ -29,5 +29,4 @@ It uses Gmail SMTP Login and bypasses login attempts!
 		   #########################################################
 		   #		Creator: @sprx.sh			   #
 		   #		Do not leech this code, learn from it.	   #
-		   #		Sources: google.com for SMTP Servers       #
 		   #########################################################
