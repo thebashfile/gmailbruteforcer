@@ -11,10 +11,11 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
  - I am not responsible for what you do/use with this tool!
  - If you use this tool for other than its intended for, you are now doing illeagle shit :)
 
-Instagram: @sprx.sh
-Discord: SQLFail#6868
+## 
+ - Instagram: @sprx.sh
+ - Discord: SQLFail#6868
 
-Screen Shot: ![GBrute](https://i.imgur.com/TKMWrXX.png)
+![GBrute](https://i.imgur.com/TKMWrXX.png)
 
 # How to Install & Use
 ```
