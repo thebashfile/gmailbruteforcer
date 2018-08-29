@@ -13,6 +13,18 @@
 Instagram: @sprx.sh
 Discord: SQLFail#6868
 
+![GBRUTE](https://imgur.com/a/4M4jAIT)
+
+# How to Install & Use
+```
+ - $ git clone https://github.com/sprxsh/gmailbruteforcer/
+ - $ cd gmailbruteforcer
+ - $ sudo python GBrute.py
+```
+
+### How it works?
+It uses Gmail SMTP Login and bypasses login attempts!
+
 		   #########################################################
 		   #		Creator: @sprx.sh			   #
 		   #		Do not leech this code, learn from it.	   #
