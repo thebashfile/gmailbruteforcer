@@ -6,7 +6,7 @@
 		 ╚═════╝       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
 
 			
- - This tools is meant for security & educational purposes only!
+ - This tool is meant for security & educational purposes only!
  - I am not responsible for what you do/use with this tool!
  - If you use this tool for other than its intended for, you are now doing illeagle shit :)
 
