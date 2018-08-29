@@ -11,20 +11,20 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
  - I am not responsible for what you do/use with this tool!
  - If you use this tool for other than its intended for, you are now doing illeagle shit :)
 
-## 
+## Contact:
  - Instagram: @sprx.sh
  - Discord: SQLFail#6868
 
 ![GBrute](https://i.imgur.com/TKMWrXX.png)
 
-# How to Install & Use
+# How to Install & Use:
 ```
  - $ git clone https://github.com/sprxsh/gmailbruteforcer/
  - $ cd gmailbruteforcer
  - $ sudo python GBrute.py
 ```
 
-### How it works?
+### How it works?:
 It uses Gmail SMTP Login and bypasses login attempts!
 
 		   #########################################################
