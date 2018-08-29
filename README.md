@@ -16,5 +16,5 @@ Discord: SQLFail#6868
 		   #########################################################
 		   #		Creator: @sprx.sh			   #
 		   #		Do not leech this code, learn from it.	   #
-		   #		Sources: google.com for MIME and Colors :) #
+		   #		Sources: google.com for SMTP Servers       #
 		   #########################################################
