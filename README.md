@@ -4,12 +4,7 @@
 	 	██║   ██║╚════╝██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
 	 	╚██████╔╝      ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
 		 ╚═════╝       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
- 
-		   #####################################################
-		   #		Creator: @sprx.sh						   #
-		   #		Do not leech this code, learn from it.	   #
-		   #		Sources: google.com for MIME and Colors :) #
-		   #####################################################
+
 			
 # This tools is meant for security & educational purposes only!
 # I am not responsible for what you do/use with this tool!
@@ -17,3 +12,9 @@
 
 Instagram: @sprx.sh
 Discord: SQLFail#6868
+
+		   #####################################################
+		   #		Creator: @sprx.sh						   #
+		   #		Do not leech this code, learn from it.	   #
+		   #		Sources: google.com for MIME and Colors :) #
+		   #####################################################
