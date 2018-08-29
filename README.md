@@ -14,7 +14,7 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
 Instagram: @sprx.sh
 Discord: SQLFail#6868
 
-Screen Shot: ![GBrute](https://imgur.com/a/4M4jAIT)
+Screen Shot: ![GBrute](https://i.imgur.com/TKMWrXX.png)
 
 # How to Install & Use
 ```
