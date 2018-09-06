@@ -21,7 +21,7 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
 ```
  - $ git clone https://github.com/sprxsh/gmailbruteforcer/
  - $ cd gmailbruteforcer
- - $ sudo python GBrute.py
+ - $ sudo python GBrute.pyc
 ```
 
 ### How it works?:
