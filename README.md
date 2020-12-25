@@ -12,14 +12,14 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
  - If you use this tool for other than its intended for, you are now doing illeagle shit :)
 
 ## Contact:
- - Instagram: @sprx.sh
- - Discord: SQLFail#6868
+ - Instagram: @bashfile
+ - Discord: Cosmic#1337
 
 ![GBrute](https://i.imgur.com/TKMWrXX.png)
 
 # How to Install & Use:
 ```
- - $ git clone https://github.com/sprxsh/gmailbruteforcer/
+ - $ git clone https://github.com/thebashfile/gmailbruteforcer/
  - $ cd gmailbruteforcer
  - $ sudo python GBrute.pyc
 ```
