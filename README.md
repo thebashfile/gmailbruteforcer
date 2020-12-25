@@ -28,6 +28,6 @@ Usage of GBrute for attacking targets without prior mutual consent is illegal. I
 It uses Gmail SMTP Login and bypasses login attempts!
 
 		   #########################################################
-		   #		Creator: @sprx.sh			   #
+		   #		Creator: @bashfile			   #
 		   #		Do not leech this code, learn from it.	   #
 		   #########################################################
